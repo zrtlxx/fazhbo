@@ -10,29 +10,29 @@ global.APIKeys = {
 global.autoread = true
 global.autobio = true 
 global.language = indonesia
-global.botname = "FazhBoT"
-global.ownername= "FachriOfc"
-global.myweb ="https://asukayang7.github.io"
-global.youtube = "https://youtube.com/c/Fachri??"
-global.github = "https://github.com/Fachri114"
-global.email = "pelerrrslebew@gmail.com"
+global.botname = "DaniBotz"
+global.ownername= "osoka ozoraあ"
+global.myweb ="https://DaniNihBos.github.io"
+global.youtube = "https://youtube.com/c/windah basudara"
+global.github = "https://github.com/zrtlxx"
+global.email = "pebriyanarif@gmail.com"
 global.region = "Indonesia"
 global.timezone = 'Asia/Jakarta'
-global.premium = ['6288227758096']
-global.owner = ["6288227758096"]
-global.ownernomer = "6288227758096"
-global.ownernomerr = "+6288227758096"
+global.premium = ['6281223084340']
+global.owner = ["6281223084340"]
+global.ownernomer = "6281223084340"
+global.ownernomerr = "+6281223084340"
 global.thumbnail = "./image/maple.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg"
-global.packname = 'FazhBoT'
-global.author = 'FachriOfc'
+global.packname = '  '
+global.author = '  '
 global.sessionName = 'session'
 global.typemenu = 'document'
 
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 50
 }
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -43,7 +43,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: 'done, by bayu hanjakal',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
