@@ -10,10 +10,10 @@ global.APIKeys = {
 global.autoread = true
 global.autobio = true 
 global.language = indonesia
-global.botname = "DaniBotz"
-global.ownername= "osoka ozoraあ"
-global.myweb ="https://DaniNihBos.github.io"
-global.youtube = "https://youtube.com/c/windah basudara"
+global.botname = *ZeroBotz"
+global.ownername= "Zeroあ"
+global.myweb ="https://zrtlxx.github.io"
+global.youtube = "https://youtube.com/c/windahbasudara"
 global.github = "https://github.com/zrtlxx"
 global.email = "pebriyanarif@gmail.com"
 global.region = "Indonesia"
@@ -27,12 +27,12 @@ global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg"
 global.packname = '  '
 global.author = '  '
-global.sessionName = 'session'
+global.sessionName = 'session.data'
 global.typemenu = 'document'
 
 global.limitawal = {
     premium: "Infinity",
-    free: 50
+    free: 5
 }
 
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -43,7 +43,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: 'done, by bayu hanjakal',
+    sukses: 'done, banh jgn lupa subecsribe',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
